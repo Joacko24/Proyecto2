@@ -26,11 +26,6 @@ p{
     margin-top: 1%;
 }
 
-.width-bg{
-    background-color: blue;
-}
-
-
 
 main{
     color: white;
@@ -43,10 +38,9 @@ main p{
 }
 
 .referencia{
-    border: 3px solid white;
-    padding: 3rem;
-    vertical-align: middle;
-    
+    border: 2px solid white;
+    align-items: center;
+    align-content: center;
 }
 
 form{
@@ -103,10 +97,6 @@ a{
     display: block;
 }
 
-footer{
-    list-style: none;
-    display: flex;
-    padding: 0%;
-    
-    margin-left: 14%;
+.nav-item{
+    color: white;
 }
